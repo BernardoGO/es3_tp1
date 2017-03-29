@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CLfraMhZyYaEE5w-nF-Qew" name=",_qxWLYBQpEee3kaZl503Q2A" guid="-CLfraMhZyYaEE5w-nF-Qew">
+  <sections xmi:id="_sUAQ8BQpEee3kaZl503Q2A" name="Identificar os elementos dinâmicos e eventos do sistema" guid="_sUAQ8BQpEee3kaZl503Q2A">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Incluso e apresentado em &quot;Formular declaração da missão&quot;&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_sVh68BQpEee3kaZl503Q2A" name="Identificar os elementos de infra-estrutura de teste" guid="_sVh68BQpEee3kaZl503Q2A">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Manter para identificar a infra-estrutura necessária do teste&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_sXIdcBQpEee3kaZl503Q2A" name="Identificar as necessidades de design específicas de teste" guid="_sXIdcBQpEee3kaZl503Q2A">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Identificar as necessidade da disciplina de teste&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_sYrVkBQpEee3kaZl503Q2A" name="Definir a infra-estrutura de teste" guid="_sYrVkBQpEee3kaZl503Q2A">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Para especificar os requisitos para infra-estrutura de teste necessária para suportar a implementação e execução de&#xD;
+testes&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_sZ-WEBQpEee3kaZl503Q2A" name="Avaliar e verificar os resultados" guid="_sZ-WEBQpEee3kaZl503Q2A">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Manter para verificar os testes&lt;/span></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-T6jT4mQZntw4Zc08t8pmgQ" name=",_p5IOIBQiEeeLYdBIzSDHVQ" guid="-T6jT4mQZntw4Zc08t8pmgQ">
+  <sections xmi:id="_se1FEBQiEeeLYdBIzSDHVQ" name="Encontrar Atores" guid="_se1FEBQiEeeLYdBIzSDHVQ">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Definir os usuários do sistema&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_tJucMBQiEeeLYdBIzSDHVQ" name="Encontrar casos de uso" guid="_tJucMBQiEeeLYdBIzSDHVQ">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Definir os comportamentos do sistema&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_uWnGEBQiEeeLYdBIzSDHVQ" name="Descrever como atores e casos de uso interagem" guid="_uWnGEBQiEeeLYdBIzSDHVQ">
+    <sectionDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Facilitar o processo de definição e desenvolvimento do sistema&lt;/span></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

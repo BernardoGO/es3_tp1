@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-iQ8jUOLZy8sYJ0zp6JBI7w" name=",_NQFCsBQlEeeLYdBIzSDHVQ" guid="-iQ8jUOLZy8sYJ0zp6JBI7w" changeDate="2017-03-28T23:13:13.832-0300">
+  <sections xmi:id="_RnqG8BQlEeeLYdBIzSDHVQ" name="Entender objetivos da iteração" guid="_RnqG8BQlEeeLYdBIzSDHVQ">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Importante para definição das metas e objetivos do teste e dos sistema&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_RpFqUBQlEeeLYdBIzSDHVQ" name="Apresentar opções aos stakeholders" guid="_RpFqUBQlEeeLYdBIzSDHVQ">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Definir as metas e objetivos dos testes&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_RqmtQBQlEeeLYdBIzSDHVQ" name="Formular declaração da missão" guid="_RqmtQBQlEeeLYdBIzSDHVQ">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Documentar os objetivos e metas do teste&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_Rrv8wBQlEeeLYdBIzSDHVQ" name="Obter confirmação do stakeholer" guid="_Rrv8wBQlEeeLYdBIzSDHVQ">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Obrigatório o acordo com o stakeholder&lt;/span></sectionDescription>
+  </sections>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Acordar o que será testado e como será feito&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Fb9c11KeaZJvcS8F5oJwGg" name=",_c2glABQlEeeLYdBIzSDHVQ" guid="-Fb9c11KeaZJvcS8F5oJwGg">
+  <sections xmi:id="_wdxfgBQlEeeLYdBIzSDHVQ" name="Determinar qual software será implementado" guid="_wdxfgBQlEeeLYdBIzSDHVQ">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Definir quais entregáveis serão produzidos nessa iteração&lt;/span></sectionDescription>
+  </sections>
+  <sections xmi:id="_wfTJgBQlEeeLYdBIzSDHVQ" name="Definir lista de itens alvo" guid="_wfTJgBQlEeeLYdBIzSDHVQ">
+    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
+Documentar as decisões quanto aos itens alvo para o stakeholder&lt;/span></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>
