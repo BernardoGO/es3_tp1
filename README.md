@@ -26,7 +26,9 @@ Utilizar com referência o RUP e o Open-Up. Quando possível, realizar a reutili
 componentes de ambos. A saída do trabalho é o web site gerado. 
 
 # Entregar:
+
 -Planilhas Preenchidas
+
 -Website
 
 
