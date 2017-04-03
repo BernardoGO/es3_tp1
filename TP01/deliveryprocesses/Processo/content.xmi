@@ -1,2 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:DeliveryProcessDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LtgV9NrqdzQPme-FkbuHFg" name="teste,_9t9rkRQXEeeLYdBIzSDHVQ" guid="-LtgV9NrqdzQPme-FkbuHFg"/>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-LtgV9NrqdzQPme-FkbuHFg" name="teste,_9t9rkRQXEeeLYdBIzSDHVQ" guid="-LtgV9NrqdzQPme-FkbuHFg"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-n2AdNyM50dsTSbqiNeb_4Q" name="designer_de_teste,_CqZ-0RfmEeer_vXmTlvnWg" guid="-n2AdNyM50dsTSbqiNeb_4Q">
+    <refinedDescription>&lt;TABLE style='FONT-FAMILY: &quot;Times New Roman&quot;; WORD-SPACING: 0px; TEXT-TRANSFORM: none; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px' cellSpacing=0 cellPadding=0 width=&quot;100%&quot; border=0>&#xD;
+&lt;TBODY>&#xD;
+&lt;TR>&#xD;
+&lt;TD style=&quot;VERTICAL-ALIGN: top&quot; vAlign=top>&#xD;
+&lt;H2 class=banner style=&quot;FONT-FAMILY: Arial, sans-serif; BACKGROUND: rgb(106,143,189); TEXT-ALIGN: center&quot;>&lt;a name=&quot;Top&quot;>&lt;/a>Papel: &amp;nbsp;&lt;RPW name=&quot;PresentationName&quot;>Designer de Teste&lt;/RPW>&lt;a name=&quot;XE_test_designer_(role)__description_of&quot;>&lt;/a>&lt;/H2>&#xD;
+&lt;P style=&quot;MARGIN-LEFT: 0px&quot;>O papel Designer de Teste é responsável por definir a abordagem de teste e assegurar sua correta implementação. O papel envolve identificar as técnicas, ferramentas e diretrizes apropriadas para implementar os testes necessários e dar orientação sobre os correspondentes requisitos de recursos para o esforço de teste. Às vezes, este papel também é chamado de&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Arquiteto de Testes&lt;/I>,&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Arquiteto de Automatização de Testes&lt;/I>&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>ou&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Especialista em Automatização de Testes&lt;/I>.&lt;/P>&lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lKlPxdkHwTC3iVZSx2__WA" name="gerente_de_teste,_C-kQ8RfmEeer_vXmTlvnWg" guid="-lKlPxdkHwTC3iVZSx2__WA">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-30bf-fe06-e4b3-f8545c1c9ed2&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-30bf-fe06-e4b3-f8545c1c9ed2&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table&#xD;
+    style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td&#xD;
+                style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;&#xD;
+                 colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &amp;nbsp;&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+                &lt;td&#xD;
+                style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;&#xD;
+                 colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span&#xD;
+                        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Responsável por direcionar a equipe, gerir recursos e especificar a qualidade dos testes. As&#xD;
+                        tarefas diretamente ligadas a esse papel foram removidas anteriormente e as indiretas podem ser&#xD;
+                        atribuídas aos demais.&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7AQgpEdyukunhwTXqMthEQ" name="designer_de_teste,_XtKUABfzEeer_vXmTlvnWg" guid="-7AQgpEdyukunhwTXqMthEQ">
+    <refinedDescription>&lt;TABLE style='FONT-FAMILY: &quot;Times New Roman&quot;; WORD-SPACING: 0px; TEXT-TRANSFORM: none; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px' cellSpacing=0 cellPadding=0 width=&quot;100%&quot; border=0>&#xD;
+&lt;TBODY>&#xD;
+&lt;TR>&#xD;
+&lt;TD style=&quot;VERTICAL-ALIGN: top&quot; vAlign=top>&#xD;
+&lt;H2 class=banner style=&quot;FONT-FAMILY: Arial, sans-serif; BACKGROUND: rgb(106,143,189); TEXT-ALIGN: center&quot;>&lt;a name=&quot;Top&quot;>&lt;/a>Papel: &amp;nbsp;&lt;RPW name=&quot;PresentationName&quot;>Designer de Teste&lt;/RPW>&lt;a name=&quot;XE_test_designer_(role)__description_of&quot;>&lt;/a>&lt;/H2>&#xD;
+&lt;P style=&quot;MARGIN-LEFT: 0px&quot;>O papel Designer de Teste é responsável por definir a abordagem de teste e assegurar sua correta implementação. O papel envolve identificar as técnicas, ferramentas e diretrizes apropriadas para implementar os testes necessários e dar orientação sobre os correspondentes requisitos de recursos para o esforço de teste. Às vezes, este papel também é chamado de&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Arquiteto de Testes&lt;/I>,&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Arquiteto de Automatização de Testes&lt;/I>&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>ou&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Especialista em Automatização de Testes&lt;/I>.&lt;/P>&lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lGsbgpIsPGoN0Mo9pYIgyg" name="designer_de_teste,_Z0X4IBfzEeer_vXmTlvnWg" guid="-lGsbgpIsPGoN0Mo9pYIgyg">
+    <refinedDescription>&lt;TABLE style='FONT-FAMILY: &quot;Times New Roman&quot;; WORD-SPACING: 0px; TEXT-TRANSFORM: none; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px' cellSpacing=0 cellPadding=0 width=&quot;100%&quot; border=0>&#xD;
+&lt;TBODY>&#xD;
+&lt;TR>&#xD;
+&lt;TD style=&quot;VERTICAL-ALIGN: top&quot; vAlign=top>&#xD;
+&lt;H2 class=banner style=&quot;FONT-FAMILY: Arial, sans-serif; BACKGROUND: rgb(106,143,189); TEXT-ALIGN: center&quot;>&lt;a name=&quot;Top&quot;>&lt;/a>Papel: &amp;nbsp;&lt;RPW name=&quot;PresentationName&quot;>Designer de Teste&lt;/RPW>&lt;a name=&quot;XE_test_designer_(role)__description_of&quot;>&lt;/a>&lt;/H2>&#xD;
+&lt;P style=&quot;MARGIN-LEFT: 0px&quot;>O papel Designer de Teste é responsável por definir a abordagem de teste e assegurar sua correta implementação. O papel envolve identificar as técnicas, ferramentas e diretrizes apropriadas para implementar os testes necessários e dar orientação sobre os correspondentes requisitos de recursos para o esforço de teste. Às vezes, este papel também é chamado de&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Arquiteto de Testes&lt;/I>,&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Arquiteto de Automatização de Testes&lt;/I>&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>ou&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Especialista em Automatização de Testes&lt;/I>.&lt;/P>&lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-FbPY99OQ0Vw42VBplgLPtA" name="analista_de_teste,_DRsoUBfmEeer_vXmTlvnWg" guid="-FbPY99OQ0Vw42VBplgLPtA">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-30bf-be12-df91-56a1dd0d0933&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Responsável por desenvolver e executar os testes.&lt;/span>&lt;/b></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-l2yM3o65qlnghkzy2W6yrA" name="analista_de_teste,_Yw6QABfzEeer_vXmTlvnWg" guid="-l2yM3o65qlnghkzy2W6yrA">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-30bf-be12-df91-56a1dd0d0933&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Responsável por desenvolver e executar os testes.&lt;/span>&lt;/b></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-gWL2N0toRZNMSfJOOss-3g" name="analista_de_teste,_aYQBQBfzEeer_vXmTlvnWg" guid="-gWL2N0toRZNMSfJOOss-3g">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-30bf-be12-df91-56a1dd0d0933&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Responsável por desenvolver e executar os testes.&lt;/span>&lt;/b></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

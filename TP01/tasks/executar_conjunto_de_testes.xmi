@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--mPoUkG2onAOsC0p3gYiTQ" name=",_rPohABfmEeer_vXmTlvnWg" guid="--mPoUkG2onAOsC0p3gYiTQ">
+  <sections xmi:id="_CZORwBfyEeer_vXmTlvnWg" name="Configurar o ambiente de teste para o estado conhecido" guid="_CZORwBfyEeer_vXmTlvnWg">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-30bd-dc7f-e691-96212fe9c488&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-30bd-dc7f-e691-96212fe9c488&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Estabelecer com precisão o ambiente de teste em preparação para o conjunto de testes&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_DSZVcBfyEeer_vXmTlvnWg" name="Definir opções de ferramentas de execução" guid="_DSZVcBfyEeer_vXmTlvnWg">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-30be-024a-635b-6f691d69ba39&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Configurar adequadamente as ferramentas usadas na&lt;/span>&lt;/b></sectionDescription>
+  </sections>
+  <sections xmi:id="_Ev1j0BfyEeer_vXmTlvnWg" name="Agendar a execução do conjunto de testes" guid="_Ev1j0BfyEeer_vXmTlvnWg">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-30be-31b7-ce34-35ddd9bf26af&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-30be-31b7-ce34-35ddd9bf26af&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Determinar o momento apropriado para a execução do teste começar&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_GitPoBfyEeer_vXmTlvnWg" name="Executar Conjunto de Testes" guid="_GitPoBfyEeer_vXmTlvnWg">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-30be-52a1-603a-09ae4a740290&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-30be-52a1-603a-09ae4a740290&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Realizar os testes incluídos no conjunto de testes, monitorar e apoiar sua conclusão&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_H0H0MBfyEeer_vXmTlvnWg" name="Avaliar execução do Conjunto de Testes" guid="_H0H0MBfyEeer_vXmTlvnWg">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-30be-7272-6afc-f6e24164310e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-30be-7272-6afc-f6e24164310e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Determinar se o conjunto de testes foi concluído ou interrompido anormalmente e fazer uma avaliação&#xD;
+                        se alguma ação corretiva é necessária.&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

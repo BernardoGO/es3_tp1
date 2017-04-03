@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nBk3weigzjOjU3NnutEoTQ" name=",_4HiAgBfmEeer_vXmTlvnWg" guid="-nBk3weigzjOjU3NnutEoTQ">
+  <sections xmi:id="_ev6YEBiCEeeF__YUvsSLcw" name="Examinar todos os incidentes e falhas de teste" guid="_ev6YEBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3470-772d-0946-b2b70599c68c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3470-772d-0946-b2b70599c68c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Investigar cada incidente e obter uma compreensão detalhada dos problemas resultantes&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_fgfgcBiCEeeF__YUvsSLcw" name="Fazer uma avaliação da cobertura do teste" guid="_fgfgcBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3470-a5ae-cb4d-12481fbade41&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3470-a5ae-cb4d-12481fbade41&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Fazer uma avaliação sumária da análise de cobertura de teste&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_hM4w0BiCEeeF__YUvsSLcw" name="Elaborar o resumo do teste de avaliação" guid="_hM4w0BiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3470-cafa-7552-d69beef8bbcb&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3470-cafa-7552-d69beef8bbcb&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Comunicar os resultados dos testes às partes interessadas e fazer uma avaliação objetiva da&#xD;
+                        qualidade e do estado do teste&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_iokrsBiCEeeF__YUvsSLcw" name="Aconselhar as partes interessadas sobre as principais conclusões" guid="_iokrsBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3471-10cd-ad71-49a9bc56aaac&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3471-10cd-ad71-49a9bc56aaac&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table&#xD;
+    style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td&#xD;
+                style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;&#xD;
+                 colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span&#xD;
+                        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Promover e divulgar o resumo da avaliação, conforme apropriado&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <purpose>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3074-bbc5-83f1-5f4350ce39ea&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Requisitar à equipe de desenvolvimento a gerência e manutenção dos elementos&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

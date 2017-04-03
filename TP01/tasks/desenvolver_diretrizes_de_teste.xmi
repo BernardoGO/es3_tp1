@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7wUKD1RcjSrw5Xy9mq_SBg" name=",_RDpUQBfxEeer_vXmTlvnWg" guid="-7wUKD1RcjSrw5Xy9mq_SBg">
+  <sections xmi:id="_mIknsBiCEeeF__YUvsSLcw" name="Execução do corte inicial" guid="_mIknsBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3471-55f2-d435-93f60772f249&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3471-55f2-d435-93f60772f249&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Determinar a adaptação inicial para se adequar ao escopo do projeto / esforço de teste&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_n7FHIBiCEeeF__YUvsSLcw" name="Identificar as diretrizes apropriadas que planeja usar" guid="_n7FHIBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3471-8ef4-d0d1-06986c7f133b&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3471-8ef4-d0d1-06986c7f133b&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Identificar quais diretrizes específicas são apropriadas no contexto dado&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_qPNs8BiCEeeF__YUvsSLcw" name="Capturar decisões de adaptação" guid="_qPNs8BiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3471-c0dd-e79a-12a406d1dc97&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3471-c0dd-e79a-12a406d1dc97&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Registrar as decisões de adaptação acordadas&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_sCXFkBiCEeeF__YUvsSLcw" name="Verifique e revise diretrizes" guid="_sCXFkBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3471-ffb8-d8cd-bd2e08008dd1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3471-ffb8-d8cd-bd2e08008dd1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Revisar as diretrizes e corrigir erros na compilação&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_ub5v0BiCEeeF__YUvsSLcw" name="Aprenda com outros projetos e organizações" guid="_ub5v0BiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3472-305c-b060-23253893bb4e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3472-305c-b060-23253893bb4e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Reutilizar práticas emergentes utilizadas por outros grupos&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_wX9z4BiCEeeF__YUvsSLcw" name="Melhorar as diretrizes" guid="_wX9z4BiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3472-72b5-0456-f592ae10ad38&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b> &#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3472-72b5-0456-f592ae10ad38&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+    &lt;table     style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td                 style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt; BACKGROUND-COLOR: #93c47d&quot;                  colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span                         style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Garantir que as diretrizes são úteis e precisas&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <purpose>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-30b8-fb0e-354a-4f09d8ce44d8&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-30b8-fb0e-354a-4f09d8ce44d8&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table&#xD;
+    style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td&#xD;
+                style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt&quot;&#xD;
+                 colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span&#xD;
+                        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Para identificar quais diretrizes específicas são apropriadas para cada contexto&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></purpose>
+</org.eclipse.epf.uma:TaskDescription>

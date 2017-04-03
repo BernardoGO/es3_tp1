@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-5twWtpHkRUw0KLkn4NgyQg" name="new_role,_7iJ_MBfkEeer_vXmTlvnWg" guid="-5twWtpHkRUw0KLkn4NgyQg" changeDate="2017-04-02T17:43:15.684-0300">
+  <mainDescription>&lt;TABLE style='FONT-FAMILY: &quot;Times New Roman&quot;; WORD-SPACING: 0px; TEXT-TRANSFORM: none; ORPHANS: 2; WIDOWS: 2; LETTER-SPACING: normal; TEXT-INDENT: 0px; -webkit-text-stroke-width: 0px' cellSpacing=0 cellPadding=0 width=&quot;100%&quot; border=0>&#xD;
+&lt;TBODY>&#xD;
+&lt;TR>&#xD;
+&lt;TD style=&quot;VERTICAL-ALIGN: top&quot; vAlign=top>&#xD;
+&lt;H2 class=banner style=&quot;FONT-FAMILY: Arial, sans-serif; BACKGROUND: rgb(106,143,189); TEXT-ALIGN: center&quot;>&lt;a name=&quot;Top&quot;>&lt;/a>Papel: &amp;nbsp;&lt;RPW name=&quot;PresentationName&quot;>Designer de Teste&lt;/RPW>&lt;a name=&quot;XE_test_designer_(role)__description_of&quot;>&lt;/a>&lt;/H2>&#xD;
+&lt;P style=&quot;MARGIN-LEFT: 0px&quot;>O papel Designer de Teste é responsável por definir a abordagem de teste e assegurar sua correta implementação. O papel envolve identificar as técnicas, ferramentas e diretrizes apropriadas para implementar os testes necessários e dar orientação sobre os correspondentes requisitos de recursos para o esforço de teste. Às vezes, este papel também é chamado de&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Arquiteto de Testes&lt;/I>,&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Arquiteto de Automatização de Testes&lt;/I>&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>ou&lt;SPAN class=Apple-converted-space>&amp;nbsp;&lt;/SPAN>&lt;I>Especialista em Automatização de Testes&lt;/I>.&lt;/P>&lt;/TD>&lt;/TR>&lt;/TBODY>&lt;/TABLE></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

@@ -1,24 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CLfraMhZyYaEE5w-nF-Qew" name=",_qxWLYBQpEee3kaZl503Q2A" guid="-CLfraMhZyYaEE5w-nF-Qew">
-  <sections xmi:id="_sUAQ8BQpEee3kaZl503Q2A" name="Identificar os elementos dinâmicos e eventos do sistema" guid="_sUAQ8BQpEee3kaZl503Q2A">
-    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
-Incluso e apresentado em &quot;Formular declaração da missão&quot;&lt;/span></sectionDescription>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-hOTLUqrspCxfLli9iXgXAQ" name=",_zBeFoBfmEeer_vXmTlvnWg" guid="-hOTLUqrspCxfLli9iXgXAQ">
+  <sections xmi:id="_UBfGgBiCEeeF__YUvsSLcw" name="Para cada mecanismo de teste necessário, identificar as relações com os itens de destino" guid="_UBfGgBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-346f-62c0-e006-593437217c75&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Obter uma compreensão de como cada mecanismo de teste necessário terá de suportar os itens de teste de destino&lt;/span>&lt;/b></sectionDescription>
   </sections>
-  <sections xmi:id="_sVh68BQpEee3kaZl503Q2A" name="Identificar os elementos de infra-estrutura de teste" guid="_sVh68BQpEee3kaZl503Q2A">
-    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
-Manter para identificar a infra-estrutura necessária do teste&lt;/span></sectionDescription>
+  <sections xmi:id="_U31fsBiCEeeF__YUvsSLcw" name="Identificar limites do sistema e interfaces" guid="_U31fsBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-346f-85eb-fc7b-bc5e674ba50c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Obter uma compreensão das responsabilidades do sistema como um provedor de serviços, e as dependências do sistema como um&#xD;
+cliente&lt;/span>&lt;/b></sectionDescription>
   </sections>
-  <sections xmi:id="_sXIdcBQpEee3kaZl503Q2A" name="Identificar as necessidades de design específicas de teste" guid="_sXIdcBQpEee3kaZl503Q2A">
-    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
-Identificar as necessidade da disciplina de teste&lt;/span></sectionDescription>
+  <sections xmi:id="_WOqIsBiCEeeF__YUvsSLcw" name="Identificar elementos da infra-estrutura de teste" guid="_WOqIsBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-346f-adae-a0fb-c2b6c1a76681&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Identificar os elementos essenciais do esforço de teste que permitirão realizar os ensaios necessários&lt;/span>&lt;/b></sectionDescription>
   </sections>
-  <sections xmi:id="_sYrVkBQpEee3kaZl503Q2A" name="Definir a infra-estrutura de teste" guid="_sYrVkBQpEee3kaZl503Q2A">
-    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
-Para especificar os requisitos para infra-estrutura de teste necessária para suportar a implementação e execução de&#xD;
-testes&lt;/span></sectionDescription>
+  <sections xmi:id="_XvxWIBiCEeeF__YUvsSLcw" name="Definir requisitos de testabilidade de software" guid="_XvxWIBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-346f-d80e-991d-b21481b81077&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Especificar os requisitos para as funções de software necessárias para suportar a implementação e execução de&#xD;
+testes&lt;/span>&lt;/b></sectionDescription>
   </sections>
-  <sections xmi:id="_sZ-WEBQpEee3kaZl503Q2A" name="Avaliar e verificar os resultados" guid="_sZ-WEBQpEee3kaZl503Q2A">
-    <sectionDescription>&lt;span style=&quot;FONT-SIZE: 13px; FONT-FAMILY: arial, helvetica, sans-serif, kanji2; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: normal; COLOR: rgb(0,0,0); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px&quot;>&#xD;
-Manter para verificar os testes&lt;/span></sectionDescription>
+  <sections xmi:id="_ZW8vUBiCEeeF__YUvsSLcw" name="Avaliar e verificar seus resultados" guid="_ZW8vUBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3470-0631-4a04-6123bca11b99&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Para verificar se a atividade foi concluída adequadamente e se os artefatos resultantes são aceitáveis&lt;/span>&lt;/b></sectionDescription>
   </sections>
+  <purpose>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3074-87bc-f3a2-f7358dae2b9f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b>&#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3074-87bc-f3a2-f7358dae2b9f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+    &lt;table&#xD;
+    style=&quot;BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 468pt; BORDER-COLLAPSE: collapse; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none&quot;>&#xD;
+        &lt;colgroup>&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+            &lt;col />&#xD;
+        &lt;/colgroup>&#xD;
+        &lt;tbody>&#xD;
+            &lt;tr style=&quot;HEIGHT: 21pt&quot;>&#xD;
+                &lt;td&#xD;
+                style=&quot;BORDER-TOP: #000000 1pt solid; BORDER-RIGHT: #000000 1pt solid; VERTICAL-ALIGN: top; BORDER-BOTTOM: #000000 1pt solid; PADDING-BOTTOM: 5pt; PADDING-TOP: 5pt; PADDING-LEFT: 5pt; BORDER-LEFT: #000000 1pt solid; PADDING-RIGHT: 5pt&quot;&#xD;
+                 colspan=&quot;2&quot;>&#xD;
+                    &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+                        &lt;span&#xD;
+                        style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+                        Alguns elementos não necessitam de teste, ou não obteriam ganho real de desempenho, portanto&#xD;
+                        definir elementos chave diminui tempo de desenvolvimento&lt;/span>&#xD;
+                    &lt;/p>&#xD;
+                &lt;/td>&#xD;
+            &lt;/tr>&#xD;
+        &lt;/tbody>&#xD;
+    &lt;/table>&#xD;
+&lt;/div></purpose>
 </org.eclipse.epf.uma:TaskDescription>

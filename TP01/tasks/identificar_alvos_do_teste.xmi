@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EGA8BcEraPA-o6-lltbIxw" name=",_2g79gBfjEeer_vXmTlvnWg" guid="-EGA8BcEraPA-o6-lltbIxw">
+  <sections xmi:id="_5j7NYBfjEeer_vXmTlvnWg" name="Identificar elementos de sistemas candidatos a serem testados" guid="_5j7NYBfjEeer_vXmTlvnWg">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3061-3765-cf96-1ba735f77467&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;br />&#xD;
+&lt;/b> &#xD;
+&lt;div style=&quot;MARGIN-LEFT: 0pt&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-fa5f9ed3-3061-75c8-6e90-8a2f56941d57&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span     style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Para não testar elementos que não são necessários para a compilação final&lt;/span>&lt;/b>&#xD;
+&lt;/div></sectionDescription>
+  </sections>
+  <sections xmi:id="_6sibQBfjEeer_vXmTlvnWg" name="Definir a lista de itens alvo" guid="_6sibQBfjEeer_vXmTlvnWg">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3061-b610-0d7e-aa43744a158f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Definir a lista dos principais pontos que devem ser avaliados.&lt;/span>&lt;/b></sectionDescription>
+  </sections>
+  <sections xmi:id="__Z4UIBfjEeer_vXmTlvnWg" name="Avaliar e verificar resultados" guid="__Z4UIBfjEeer_vXmTlvnWg">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3061-ece9-3b84-0836a407f2ab&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Para evitar que erros semelhantes se repitam&lt;/span>&lt;/b></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

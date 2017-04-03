@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mX88ABaNE5Ven-09F1ljyQ" name=",_8elgUBfmEeer_vXmTlvnWg" guid="-mX88ABaNE5Ven-09F1ljyQ">
+  <sections xmi:id="_QAMbUBiCEeeF__YUvsSLcw" name="Criar a estrutura inicial do Conjunto de Testes" guid="_QAMbUBiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-346e-f805-226e-edb28aa0eb46&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Descrever os conjuntos de testes a serem implementados&lt;/span>&lt;/b></sectionDescription>
+  </sections>
+  <sections xmi:id="_Q7fl8BiCEeeF__YUvsSLcw" name="Definir dependências iniciais entre os elementos do conjunto de teste" guid="_Q7fl8BiCEeeF__YUvsSLcw">
+    <sectionDescription>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-346f-204c-1231-eb9cef182e82&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Identificar e registrar as dependências de tempo de execução entre os elementos do conjunto de testes&lt;/span>&lt;/b></sectionDescription>
+  </sections>
+  <purpose>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-3075-38f7-5e0b-d2dfd9486348&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Essa tarefa ajuda a compreender a facilidade de se testar elementos e entender quais mecanismos eles suportam e quais&#xD;
+benefícios oferece&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

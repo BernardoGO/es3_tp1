@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-K6LT2p9evu7F9u_HOGvrtA" name="new_artifact,_mBYnkBfzEeer_vXmTlvnWg" guid="-K6LT2p9evu7F9u_HOGvrtA">
+  <purpose>&lt;b id=&quot;docs-internal-guid-fa5f9ed3-30c8-1b6c-04e5-a1208ead6ccc&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Uma compilação é uma versão operacional de um sistema ou parte de um sistema que demonstra um subconjunto dos recursos a&#xD;
+serem fornecidos no produto final&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:ArtifactDescription>
